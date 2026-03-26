@@ -7,10 +7,11 @@
 - Lilia 
 
 ## Research question
-Not decided yet
+Are people with health coverage more likely to be vaccinated?
 
 ## Data
-We will use data sets from the previous exercises 
+We will use data sets from the previous exercises
+
 
 ## Analysis strategy
 
