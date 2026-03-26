@@ -12,6 +12,8 @@ Not decided yet
 ## Data
 We will use data sets from the previous exercises 
 
+## Analysis strategy
+
 
 
 
